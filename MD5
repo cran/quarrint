@@ -1,0 +1,14 @@
+28fca71925acbf09dede99f621199e0a *DESCRIPTION
+d1a16ad21bcd46d30258f71e06b323d0 *NAMESPACE
+1f682fbd88f8a2d23ff1c2eb4794703e *R/quarry.R
+ab35ecfd5860ee242e3397cb67f6ccfc *R/sysdata.rda
+410fabe948f698ddf05be864806ed701 *data/quarries.RData
+9331ff792c6ddf846a090d9c13fe10da *man/as.data.frame.quarry.Rd
+fbada32579b55cf438eb07f725d2a3b8 *man/compute.ann.Rd
+48f0075689603cf7addbfbf7a9e73b44 *man/compute.dc.Rd
+3da01e37bfcc640e77aa9305b48e1ab6 *man/compute.interaction.Rd
+915a0aca70792f568647cbee570cfe80 *man/int.in.range.Rd
+7a9a4308e97502d6ff64d63a47f938c7 *man/quarries.Rd
+5dcaa18263bc4510bebbc9cb2741df41 *man/quarrint-package.Rd
+c5a2a1d34cf7f4cd6977e7fbca289e79 *man/quarry.Rd
+58eb2dad30392dcca580dd9e44e9bcf1 *man/train.ann.Rd
